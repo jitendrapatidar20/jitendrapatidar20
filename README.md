@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **jitendra.patidar20@gmail.com** For Collaboration/Project/freelance or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Core PHP , CodeIgniter , Laravel
+- 🔭 **I’m currently working on:** CodeIgniter , Laravel
 - 🌱 **I’m currently learning:** react js
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** jitendra.patidar20@gmail.com
